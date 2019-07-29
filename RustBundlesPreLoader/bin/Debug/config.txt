@@ -1,0 +1,5 @@
+D:\SteamLibrary\steamapps\common\Rust\Bundles\shared\assets.bundle
+D:\SteamLibrary\steamapps\common\Rust\Bundles\shared\content.bundle
+D:\SteamLibrary\steamapps\common\Rust\Bundles\shared\monuments.bundle
+D:\SteamLibrary\steamapps\common\Rust\Bundles\shared\textures.bundle
+D:\SteamLibrary\steamapps\common\Rust\Bundles\maps\maps.bundle
