@@ -13,7 +13,6 @@ The Bundles are located here: <B>steamapps\common\Rust\Bundles</B><br>
 Just run it when you have set the <B>config.txt</B> file and wait untill it closes.
 
 <br>
-<br>
 
 <b>My Specs:</b><br>
 GPU: GeForce RTX 2080 8GB<br>
@@ -26,5 +25,6 @@ Memory: 16.00 GB DDR4<br>
 Normal: MainMenu : 2:29 | Join Server : 1:15<br>
 Preloaded Bundles: MainMenu : 0:11 | Join Server : 0:49<br>
 Preloader Application: 0:59<br>
+<br>
 <br>
 <img align="left" src="https://chrisandriessen.nl/web/img/RustBPL.png">
